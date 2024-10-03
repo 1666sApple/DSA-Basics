@@ -1,5 +1,4 @@
 import array
-from re import A
 
 arr = array.array('i', [12, 25, 11, 34, 90, 22])
 
